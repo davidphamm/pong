@@ -1,9 +1,9 @@
 <img src="https://github.com/davidphamm/pong/blob/main/pong.gif">
-
-Player A Keys:
-Up: W
-Down: S
-
-Player B Keys:
-Up: Arrow up
-Down- Arrow down
+<br>
+Player A Keys:<br>
+Up: W<br>
+Down: S<br>
+<br>
+Player B Keys:<br>
+Up: Arrow up<br>
+Down: Arrow down<br>
